@@ -11,7 +11,6 @@
 ---
 
 ### 👨‍💻 About Me:
-- 📋 **Resume**: Check out My Resume [**here**](https://docs.google.com/document/d/1_1tkH33oggXdtNtLS1ek_hHgC8YEHGkb/edit?usp=sharing&ouid=114996828737559694387&rtpof=true&sd=true)  
 - 💬 **Ask me about**: Data Analysis, Business Intelligence, Bioinformatics  
 - 📫 **Reach me at**: [nabilmohsalama@gmail.com](mailto:nabilmohsalama@gmail.com) | **+20 1147590087**  
 - ⚡ **Fun fact**: I'm passionate about transforming data into actionable insights!  
