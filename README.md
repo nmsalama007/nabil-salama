@@ -74,12 +74,13 @@
 - Google Analytics
 - Tableau
 - Excel
+- Market Research
 
 ### 🧬 Bioinformatics & Data Science
 - RStudio
 - Linux
 - Statistical Analysis
-- Market Research
+- Literature Review
 - Data Validation
 
 ---
